@@ -3,19 +3,19 @@
 
 ---
 
-### 📬 Connect with Me
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/namansawnani/)
-- 🧠 [LeetCode](https://leetcode.com/u/FDlHKPou4U/)
-- 🎯 [CodeChef](https://www.codechef.com/users/hi_naman)
-
----
-
 ### 🛠️ Skills
 
 - **Programming Languages**: C++, Python
 - **Web Development**: HTML, CSS, JavaScript
 - **Tools & Technologies**: Git, GitHub, VS Code
+
+---
+
+### 📬 Connect with Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/namansawnani/)
+- 🧠 [LeetCode](https://leetcode.com/u/FDlHKPou4U/)
+- 🎯 [CodeChef](https://www.codechef.com/users/hi_naman)
 
 ---
 

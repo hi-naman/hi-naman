@@ -5,7 +5,7 @@
 
 ### 📬 Connect with Me
 
-- 🔗 [LinkedIn](www.linkedin.com/in/namansawnani)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/namansawnani/)
 - 🧠 [LeetCode](https://leetcode.com/u/FDlHKPou4U/)
 - 🎯 [CodeChef](https://www.codechef.com/users/hi_naman)
 

@@ -6,8 +6,8 @@
 ### 📬 Connect with Me
 
 - 🔗 [LinkedIn](www.linkedin.com/in/namansawnani)
-- 🧠 [LeetCode]([https://leetcode.com/YourLeetcodeUsername/](https://leetcode.com/u/FDlHKPou4U/))
-- 🎯 [CodeChef]([https://www.codechef.com/users/YourCodechefUsername](https://www.codechef.com/users/hi_naman))
+- 🧠 [LeetCode](https://leetcode.com/u/FDlHKPou4U/)
+- 🎯 [CodeChef](https://www.codechef.com/users/hi_naman)
 
 ---
 

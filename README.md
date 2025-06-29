@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Naman Sawnani</h1>
+<h3 align="center">B.Tech Student | ECE, MNIT Jaipur</h3>
 
-<!--
-**hi-naman/hi-naman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📬 Connect with Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔗 [LinkedIn](www.linkedin.com/in/namansawnani)
+- 🧠 [LeetCode]([https://leetcode.com/YourLeetcodeUsername/](https://leetcode.com/u/FDlHKPou4U/))
+- 🎯 [CodeChef]([https://www.codechef.com/users/YourCodechefUsername](https://www.codechef.com/users/hi_naman))
+
+---
+
+### 🛠️ Skills
+
+- **Programming Languages**: C++, Python
+- **Web Development**: HTML, CSS, JavaScript
+- **Tools & Technologies**: Git, GitHub, VS Code
+
+---
+
+### 🔗 Let's Connect & Collaborate!
+
+> “Striving to learn, build, and grow — one line of code at a time.”
+
